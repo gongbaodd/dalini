@@ -247,6 +247,11 @@
   dependencies:
     chalk "^4.0.0"
 
+"@types/bmapgl@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.nlark.com/@types/bmapgl/download/@types/bmapgl-0.0.3.tgz#1e69879e23a16ee991d360d66c008ac051ac08ad"
+  integrity sha1-HmmHniOhbumR02DWbACKwFGsCK0=
+
 "@types/node@15.0.1":
   version "15.0.1"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-15.0.1.tgz#ef34dea0881028d11398be5bf4e856743e3dc35a"
