@@ -247,10 +247,10 @@
   dependencies:
     chalk "^4.0.0"
 
-"@types/bmapgl@^0.0.3":
+"@types/bmapgl@0.0.3":
   version "0.0.3"
-  resolved "https://registry.nlark.com/@types/bmapgl/download/@types/bmapgl-0.0.3.tgz#1e69879e23a16ee991d360d66c008ac051ac08ad"
-  integrity sha1-HmmHniOhbumR02DWbACKwFGsCK0=
+  resolved "https://registry.yarnpkg.com/@types/bmapgl/-/bmapgl-0.0.3.tgz#1e69879e23a16ee991d360d66c008ac051ac08ad"
+  integrity sha512-F/SKsRR8orBzDoaxSZi/2eycM0Wx/PEtaHi6l9CXZTu+Ewhk/ryo3gwJiSv9O0tlFeMmzKHrhJwBosLy7xr8xA==
 
 "@types/node@15.0.1":
   version "15.0.1"
@@ -2028,10 +2028,10 @@ vite-plugin-html@2.0.7:
     fs-extra "^9.1.0"
     html-minifier-terser "^5.1.1"
 
-vite@2.2.3:
-  version "2.2.3"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-2.2.3.tgz#1acbdfa56ac00e00e7ccb6988f63f130c2f99dbb"
-  integrity sha512-PtjyBL4GtACM+uT5q5hi2+AlMBbb6YI2b2bam6QI8ZdZt4FezseF0yZHQx0G+b3po9jIJ/GS5N9gc5Yq9Rue7g==
+vite@2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.2.4.tgz#8f9cc85aacab04c850085894b086c8717f12ed16"
+  integrity sha512-vnIwSNci+phFMp6krhy+FbYzKL0R67Sdt9mVZ96S27AewrApSJjTqncJcalk8sf60BgcbW4+1C6DFIWkxquO9g==
   dependencies:
     esbuild "^0.9.3"
     postcss "^8.2.1"
