@@ -1434,10 +1434,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-mapvgl@^1.0.0-beta.122:
-  version "1.0.0-beta.123"
-  resolved "https://registry.nlark.com/mapvgl/download/mapvgl-1.0.0-beta.123.tgz#6ddae55f857e3162aca8c2f954809716b9bbe167"
-  integrity sha1-bdrlX4V+MWKsqML5VICXFrm74Wc=
+mapvgl@^1.0.0-beta.125:
+  version "1.0.0-beta.126"
+  resolved "https://registry.yarnpkg.com/mapvgl/-/mapvgl-1.0.0-beta.126.tgz#4c690afe1b477246eb6ac6eb25914a42b8d5d951"
+  integrity sha512-YWU0mReKl8YZQ1DXHNfw6cfpo1Z7Av9SCB1ZQ60ceI55NJLeiicLAOrHRTGLk5YYIHvD40EezXk5P8liPx4e8g==
 
 merge@^1.2.1:
   version "1.2.1"
@@ -1687,12 +1687,12 @@ postcss@^8.2.1:
     nanoid "^3.1.22"
     source-map "^0.6.1"
 
-react-bmapgl@0.1.18:
-  version "0.1.18"
-  resolved "https://registry.yarnpkg.com/react-bmapgl/-/react-bmapgl-0.1.18.tgz#079f09a4c2609249bfc0d76ed79c5b6ebc143543"
-  integrity sha512-9HUim/sxAvFVUu1tlBCVD+2DEZ5UnxhqH3D3ncHyd/SrEStOuwhzfHh4sYtJDQghAVNXvX84K0EO2+h+wUP22Q==
+react-bmapgl@0.1.21:
+  version "0.1.21"
+  resolved "https://registry.yarnpkg.com/react-bmapgl/-/react-bmapgl-0.1.21.tgz#d765509ab71e90a28ce4d6e3ca14c464aac84719"
+  integrity sha512-SmbznnJd1hHMRcS9mXpI/N9vjJWxvYzSkwraeLEoXkVTujlOzJJZAFOJH8VLN2Z0q2KrGh70Hz03MDiysOZ4JA==
   dependencies:
-    mapvgl "^1.0.0-beta.122"
+    mapvgl "^1.0.0-beta.125"
     react "^17.0.1"
     react-dom "^17.0.1"
     shallowequal "^1.1.0"
